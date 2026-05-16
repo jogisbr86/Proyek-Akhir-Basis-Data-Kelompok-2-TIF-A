@@ -1,3 +1,6 @@
+create database proyek_kelompok_2;
+go
+
 use proyek_kelompok_2;
 go
 
