@@ -4015,4 +4015,4 @@ insert into PEKERJA values ('P1000', 26, 'Female', 'L1000', 'A1000', 'S1000');
 
 -- Catatan : Nama database yang digunakan adalah proyek_kelompok_2
 
--- Kelompok 2 TIF A 2025
+-- Kelompok 2 Basis Data TIF A
