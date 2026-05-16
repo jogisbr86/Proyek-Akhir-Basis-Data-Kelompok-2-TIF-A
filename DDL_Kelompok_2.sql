@@ -46,4 +46,4 @@ create table PEKERJA
 
 -- Catatan : Nama database yang digunakan adalah proyek_kelompok_2
 
--- Kelompok 2 TIF A 2025
+-- Kelompok 2 Basis Data TIF A
